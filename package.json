@@ -1,0 +1,19 @@
+{
+  "name": "lms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iosif2/lms.git"
+  },
+  "author": "iosif2",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/iosif2/lms/issues"
+  },
+  "homepage": "https://github.com/iosif2/lms#readme"
+}
